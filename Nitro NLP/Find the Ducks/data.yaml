@@ -1,0 +1,5 @@
+train: D:/SCOALA/PYT/OJIA/nitro_nlp/second_find_duck/dataset/images/train
+val:   D:/SCOALA/PYT/OJIA/nitro_nlp/second_find_duck/dataset/images/val
+
+nc: 1
+names: ['duck']
