@@ -1,6 +1,7 @@
 # Solution scaffolding for 'Notatia bizantina'
-# Feel free to use anything from this 
+# Feel free to use anything from this
 
+# This solution got only ~35 points
 import pandas as pd
 import cv2
 import csv
